@@ -1,0 +1,23 @@
+{
+  "name": "mordymoszakalkulator",
+  "version": "1.0.0",
+  "description": "Moszeknop's mouths calculator",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppowicz/mordymoszakalkulator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppowicz/mordymoszakalkulator/issues"
+  },
+  "homepage": "https://github.com/ppowicz/mordymoszakalkulator#readme",
+  "dependencies": {
+    "parcel": "^2.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
